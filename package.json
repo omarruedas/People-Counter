@@ -1,0 +1,22 @@
+{
+  "name": "people-counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "nodemon":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarruedas/People-Counter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omarruedas/People-Counter/issues"
+  },
+  "homepage": "https://github.com/omarruedas/People-Counter#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
